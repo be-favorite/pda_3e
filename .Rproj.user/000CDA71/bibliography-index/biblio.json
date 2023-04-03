@@ -1,0 +1,31 @@
+{
+    "sources": [
+        {
+            "URL": "https://wesmckinney.com/book/",
+            "author": [
+                {
+                    "family": "McKinney",
+                    "given": "Wes"
+                }
+            ],
+            "edition": "3",
+            "id": "mckinney2022",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        10,
+                        19
+                    ]
+                ]
+            },
+            "language": "en",
+            "publisher": "O‘REILLY",
+            "title": "Python for Data Analysis, 3E",
+            "type": "book"
+        }
+    ],
+    "project_biblios": [
+        "references.bib"
+    ]
+}
