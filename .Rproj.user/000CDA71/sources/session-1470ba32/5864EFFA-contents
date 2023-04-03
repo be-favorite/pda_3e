@@ -8,4 +8,4 @@ Site built by [Quarto](https://github.com/quarto-dev/quarto-cli/) and deployed b
 
 ## Licenses
 
-Code: \[MIT\](LICENSE)
+Code: [MIT](LICENSE)
