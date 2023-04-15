@@ -5,10 +5,11 @@ project:
 book:
   title: "스터디: Python for Data Analysis 3E"
   author: "방태모"
-  date: today
+  date: 2023-04-01
   chapters:
     - index.qmd
     - chapter2.qmd
+    - chapter3.qmd
     - references.qmd
 
 bibliography: references.bib
